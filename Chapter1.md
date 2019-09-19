@@ -28,7 +28,7 @@
 
 #### Phases
 
-![p1](C1\c1p1.png)
+![p1](C1/c1p1.png)
 
 ### Lexical analysis
 
@@ -39,7 +39,7 @@
 - token-name works for syntax analysis
 - attribute-value works for semantic analysis & code generating
 
-![p2](C1\c1p2.png)
+![p2](C1/c1p2.png)
 
 ### Syntax analysis
 
@@ -48,31 +48,31 @@
 - Build Syntax tree
 - Get syntax structure
 
-![p3](C1\c1p3.png)
+![p3](C1/c1p3.png)
 
 ### Semantic analysis
 
 - check with symbol table & syntax tree
 - generate code, check types, type shift
 
-![p4](C1\c1p4.png)
+![p4](C1/c1p4.png)
 
 ### Generate intermediate code
 
-![p5](C1\c1p5.png)
+![p5](C1/c1p5.png)
 
 ### Polish
 
 - faster & more effective
 
-![p6](C1\c1p6.png)
+![p6](C1/c1p6.png)
 
 ### Final code generating
 
 - allocate registers
 - choose proper operations
 
-![p7](C1\c1p7.png)
+![p7](C1/c1p7.png)
 
 ### Others
 
