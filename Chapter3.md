@@ -30,7 +30,7 @@
 
 #### Sample
 
-![p1](c3/c3p1.png)
+![p1](C3/c3p1.png)
 
 ### Rules of Token(Regular Expression)
 
